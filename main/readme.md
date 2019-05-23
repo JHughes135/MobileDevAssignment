@@ -1,0 +1,1 @@
+Android application aimed at cyclists for storing and viewing their data on different mountain climbs. Data such as distance, gradient, elevation etc can be stored. The app consists of three different activities, a main menu, a screen for inputting and saving climb data and a screen for viewing the data. Data is stored in a SQLite database on the device.

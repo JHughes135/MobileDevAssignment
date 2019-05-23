@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MSD_Assignment</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_climbs">Climbs</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add__climb">add_Climb</string>
+    <string name="name">Name</string>
+    <string name="elevation">Elevation</string>
+    <string name="location">Location</string>
+    <string name="baseelev">Baseelev</string>
+    <string name="maxelev">Maxelev</string>
+    <string name="avggrad">Avggrad</string>
+    <string name="steepestgrad">Steepestgrad</string>
+
+</resources>
